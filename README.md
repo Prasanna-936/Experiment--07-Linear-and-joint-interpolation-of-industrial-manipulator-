@@ -1,8 +1,8 @@
 # Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
-## Name : PRASANNA R
-## Date : 22-04-2024
-## Register Number : 212221220039
-## Department : INFORMATION TECHONOLOGY
+#### Date : 15-04-2024
+#### Name : PRASANNA R
+#### Register Number : 212221220039
+#### Department : INFORMATION TECHONOLOGY
 ### Aim :
 To understand linear and joint interpolation of industrial manipulator and develop a program for the same
 
